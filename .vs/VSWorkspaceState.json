@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\docs",
+    "\\lib",
+    "\\pages",
+    "\\pages\\api",
+    "\\pages\\posts",
+    "\\public",
+    "\\public\\favicon",
+    "\\styles"
+  ],
+  "SelectedNode": "\\components\\post-body.module.css",
+  "PreviewInSolutionExplorer": false
+}
